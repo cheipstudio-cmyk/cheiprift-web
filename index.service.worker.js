@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794755157|5474887';
+const CACHE_VERSION = '1794769225|5561948';
 /** @type {string} */
 const CACHE_PREFIX = 'Mini Block Moba-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
