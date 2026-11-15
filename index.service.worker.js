@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794740695|4316140';
+const CACHE_VERSION = '1794741891|4312707';
 /** @type {string} */
 const CACHE_PREFIX = 'Cheip Rift-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
